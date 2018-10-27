@@ -1,4 +1,6 @@
 # pathfinder
+[![Go Report Card](https://goreportcard.com/badge/github.com/artyomturkin/pathfinder)](https://goreportcard.com/report/github.com/artyomturkin/pathfinder)
+
 Go package to match path to path template and extract path params
 
 > Static path parts take precedence over parametrized parts. I.e. static parts are matched first and if matched parametrized parts are not looked up.
